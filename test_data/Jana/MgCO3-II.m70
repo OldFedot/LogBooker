@@ -1,0 +1,283 @@
+
+#=======================================================================
+# MakeRefFile
+#=======================================================================
+
+_diffrn_reflns_number                    687
+_diffrn_reflns_theta_min                 1.63
+_diffrn_reflns_theta_max                 17.73
+_diffrn_reflns_limit_h_min               -10
+_diffrn_reflns_limit_h_max               13
+_diffrn_reflns_limit_k_min               -8
+_diffrn_reflns_limit_k_max               7
+_diffrn_reflns_limit_l_min               -12
+_diffrn_reflns_limit_l_max               11
+_diffrn_reflns_av_R_equivalents          0.0116
+_diffrn_reflns_av_unetI/netI             0.0485
+_diffrn_reflns_theta_full                13.96
+_diffrn_measured_fraction_theta_max      0.31
+_diffrn_measured_fraction_theta_full     0.47
+
+#=======================================================================
+# Absorption
+#=======================================================================
+
+_exptl_absorpt_correction_T_max          1
+_exptl_absorpt_correction_T_min          0.17
+_exptl_absorpt_correction_type           'multi-scan'
+_exptl_absorpt_process_details
+;
+CrysAlisPro 1.171.42.54a (Rigaku Oxford Diffraction, 2022)
+Empirical absorption correction using spherical harmonics,
+implemented in SCALE3 ABSPACK scaling algorithm.
+;
+
+#=======================================================================
+# DatColl
+#=======================================================================
+
+_cell_measurement_reflns_used            214
+_cell_measurement_theta_max              16.86
+_cell_measurement_theta_min              1.62
+_diffrn_radiation_monochromator          'synchrotron'
+_diffrn_measurement_device_type          'esperanto-CrysAlisPro-abstract goniometer imported esperanto images'
+_diffrn_detector                         'Hybrid Pixel Array Detector'
+_diffrn_detector_area_resol_mean         13.3333
+_diffrn_measurement_method               '\w scans'
+_diffrn_source                           'synchrotron'
+_computing_cell_refinement
+ 'CrysAlisPro 1.171.42.54a (Rigaku OD, 2022)'
+_computing_data_collection
+ 'CrysAlisPro 1.171.42.54a (Rigaku OD, 2022)'
+_computing_data_reduction
+ 'CrysAlisPro 1.171.42.54a (Rigaku OD, 2022)'
+
+#=======================================================================
+# Refine
+#=======================================================================
+
+_exptl_crystal_F_000                     480
+_refine_ls_weighting_scheme              sigma
+_refine_ls_weighting_details             'w=1/(\s^2^(F)+0.0001F^2^)'
+_refine_ls_structure_factor_coef         F
+_reflns_threshold_expression             'I>3\s(I)'
+_refine_ls_extinction_method             'none'
+_refine_ls_number_constraints            0
+_refine_ls_number_restraints             0
+_reflns_number_total                     575
+_reflns_number_gt                        357
+_refine_ls_R_factor_gt                   0.3684
+_refine_ls_wR_factor_gt                  0.3857
+_refine_ls_R_factor_all                  0.5268
+_refine_ls_wR_factor_all                 0.3943
+_refine_ls_wR_factor_ref                 0.3943
+_refine_ls_number_reflns                 575
+_refine_ls_number_parameters             72
+_refine_ls_goodness_of_fit_all           15.99
+_refine_ls_goodness_of_fit_ref           15.99
+_refine_ls_goodness_of_fit_gt            20.78
+_refine_ls_shift/su_max                  0.7286
+_refine_ls_shift/su_mean                 0.1955
+
+
+#=======================================================================
+# Dist
+#=======================================================================
+
+loop_
+ _geom_bond_atom_site_label_1
+ _geom_bond_atom_site_label_2
+ _geom_bond_site_symmetry_1
+ _geom_bond_site_symmetry_2
+ _geom_bond_distance
+ _geom_bond_publ_flag
+  Mg1 Mg1 . 2_655 3.130(18) ?
+  Mg1 Mg2 . . 2.729(16) ?
+  Mg1 Mg2 . 6_655 2.938(17) ?
+  Mg1 Mg2 . 7_665 2.938(17) ?
+  Mg1 Mg2 . 4_575 2.729(16) ?
+  Mg1 O4 . . 2.06(3) ?
+  Mg1 O4 . 3_675 2.06(3) ?
+  Mg1 O7 . . 1.71(2) ?
+  Mg1 O8 . . 1.82(3) ?
+  Mg1 O8 . 6_655 2.10(4) ?
+  Mg1 O8 . 7_665 2.10(4) ?
+  Mg1 O8 . 4_575 1.82(3) ?
+  Mg1 C1 . 6_655 2.30(2) ?
+  Mg1 C1 . 7_665 2.30(2) ?
+  Mg2 Mg2 . 2_756 2.635(15) ?
+  Mg2 Mg2 . 4_575 2.93(2) ?
+  Mg2 O1 . . 1.64(2) ?
+  Mg2 O2 . . 2.09(2) ?
+  Mg2 O7 . . 1.811(18) ?
+  Mg2 O8 . . 1.88(3) ?
+  Mg2 C1 . . 0.98(2) ?
+  O1 O1 . 2_756 1.41(5) ?
+  O4 O8 . 5_455 1.40(3) ?
+  O4 O8 . 6_655 1.40(3) ?
+  O5 O8 . 7_665 1.39(3) ?
+  O6 O7 . . 1.47(3) ?
+
+loop_
+ _geom_angle_atom_site_label_1
+ _geom_angle_atom_site_label_2
+ _geom_angle_atom_site_label_3
+ _geom_angle_site_symmetry_1
+ _geom_angle_site_symmetry_2
+ _geom_angle_site_symmetry_3
+ _geom_angle
+ _geom_angle_publ_flag
+  Mg1 Mg1 Mg2 2_655 . . 114.3(6) ?
+  Mg1 Mg1 Mg2 2_655 . 6_655 85.4(4) ?
+  Mg1 Mg1 Mg2 2_655 . 7_665 85.4(4) ?
+  Mg1 Mg1 Mg2 2_655 . 4_575 114.3(6) ?
+  Mg1 Mg1 O4 2_655 . . 40.5(9) ?
+  Mg1 Mg1 O4 2_655 . 3_675 40.5(9) ?
+  Mg1 Mg1 O7 2_655 . . 93.4(9) ?
+  Mg1 Mg1 O8 2_655 . . 136.9(10) ?
+  Mg1 Mg1 O8 2_655 . 6_655 78.0(7) ?
+  Mg1 Mg1 O8 2_655 . 7_665 78.0(7) ?
+  Mg1 Mg1 O8 2_655 . 4_575 136.9(10) ?
+  Mg1 Mg1 C1 2_655 . 6_655 69.9(6) ?
+  Mg1 Mg1 C1 2_655 . 7_665 69.9(6) ?
+  Mg2 Mg1 Mg2 . . 6_655 160.2(7) ?
+  Mg2 Mg1 Mg2 . . 7_665 107.2(4) ?
+  Mg2 Mg1 Mg2 . . 4_575 64.9(5) ?
+  Mg2 Mg1 O4 . . . 131.4(7) ?
+  Mg2 Mg1 O4 . . 3_675 88.0(7) ?
+  Mg2 Mg1 O7 . . . 40.5(5) ?
+  Mg2 Mg1 O8 . . . 43.2(9) ?
+  Mg2 Mg1 O8 . . 6_655 139.9(8) ?
+  Mg2 Mg1 O8 . . 7_665 75.2(7) ?
+  Mg2 Mg1 O8 . . 4_575 89.9(10) ?
+  Mg2 Mg1 C1 . . 6_655 173.9(8) ?
+  Mg2 Mg1 C1 . . 7_665 118.1(6) ?
+  Mg2 Mg1 Mg2 6_655 . 7_665 74.0(5) ?
+  Mg2 Mg1 Mg2 6_655 . 4_575 107.2(4) ?
+  Mg2 Mg1 O4 6_655 . . 63.2(5) ?
+  Mg2 Mg1 O4 6_655 . 3_675 109.3(7) ?
+  Mg2 Mg1 O7 6_655 . . 142.9(3) ?
+  Mg2 Mg1 O8 6_655 . . 122.4(11) ?
+  Mg2 Mg1 O8 6_655 . 6_655 39.5(8) ?
+  Mg2 Mg1 O8 6_655 . 7_665 111.9(9) ?
+  Mg2 Mg1 O8 6_655 . 4_575 73.7(9) ?
+  Mg2 Mg1 C1 6_655 . 6_655 16.5(5) ?
+  Mg2 Mg1 C1 6_655 . 7_665 68.3(6) ?
+  Mg2 Mg1 Mg2 7_665 . 4_575 160.2(7) ?
+  Mg2 Mg1 O4 7_665 . . 109.3(7) ?
+  Mg2 Mg1 O4 7_665 . 3_675 63.2(5) ?
+  Mg2 Mg1 O7 7_665 . . 142.9(3) ?
+  Mg2 Mg1 O8 7_665 . . 73.7(9) ?
+  Mg2 Mg1 O8 7_665 . 6_655 111.9(9) ?
+  Mg2 Mg1 O8 7_665 . 7_665 39.5(8) ?
+  Mg2 Mg1 O8 7_665 . 4_575 122.4(11) ?
+  Mg2 Mg1 C1 7_665 . 6_655 68.3(6) ?
+  Mg2 Mg1 C1 7_665 . 7_665 16.5(5) ?
+  Mg2 Mg1 O4 4_575 . . 88.0(7) ?
+  Mg2 Mg1 O4 4_575 . 3_675 131.4(7) ?
+  Mg2 Mg1 O7 4_575 . . 40.5(5) ?
+  Mg2 Mg1 O8 4_575 . . 89.9(10) ?
+  Mg2 Mg1 O8 4_575 . 6_655 75.2(7) ?
+  Mg2 Mg1 O8 4_575 . 7_665 139.9(8) ?
+  Mg2 Mg1 O8 4_575 . 4_575 43.2(9) ?
+  Mg2 Mg1 C1 4_575 . 6_655 118.1(6) ?
+  Mg2 Mg1 C1 4_575 . 7_665 173.9(8) ?
+  O4 Mg1 O4 . . 3_675 80.9(13) ?
+  O4 Mg1 O7 . . . 92.6(7) ?
+  O4 Mg1 O8 . . . 174.4(12) ?
+  O4 Mg1 O8 . . 6_655 39.2(11) ?
+  O4 Mg1 O8 . . 7_665 117.4(12) ?
+  O4 Mg1 O8 . . 4_575 96.6(13) ?
+  O4 Mg1 C1 . . 6_655 54.6(6) ?
+  O4 Mg1 C1 . . 7_665 93.2(8) ?
+  O4 Mg1 O7 3_675 . . 92.6(7) ?
+  O4 Mg1 O8 3_675 . . 96.6(13) ?
+  O4 Mg1 O8 3_675 . 6_655 117.4(12) ?
+  O4 Mg1 O8 3_675 . 7_665 39.2(11) ?
+  O4 Mg1 O8 3_675 . 4_575 174.4(12) ?
+  O4 Mg1 C1 3_675 . 6_655 93.2(8) ?
+  O4 Mg1 C1 3_675 . 7_665 54.6(6) ?
+  O7 Mg1 O8 . . . 82.5(10) ?
+  O7 Mg1 O8 . . 6_655 104.0(8) ?
+  O7 Mg1 O8 . . 7_665 104.0(8) ?
+  O7 Mg1 O8 . . 4_575 82.5(10) ?
+  O7 Mg1 C1 . . 6_655 145.2(7) ?
+  O7 Mg1 C1 . . 7_665 145.2(7) ?
+  O8 Mg1 O8 . . 6_655 144.7(14) ?
+  O8 Mg1 O8 . . 7_665 61.7(11) ?
+  O8 Mg1 O8 . . 4_575 85.4(15) ?
+  O8 Mg1 C1 . . 6_655 130.7(12) ?
+  O8 Mg1 C1 . . 7_665 89.4(10) ?
+  O8 Mg1 O8 6_655 . 7_665 144.0(11) ?
+  O8 Mg1 O8 6_655 . 4_575 61.7(11) ?
+  O8 Mg1 C1 6_655 . 6_655 43.9(8) ?
+  O8 Mg1 C1 6_655 . 7_665 102.1(9) ?
+  O8 Mg1 O8 7_665 . 4_575 144.7(14) ?
+  O8 Mg1 C1 7_665 . 6_655 102.1(9) ?
+  O8 Mg1 C1 7_665 . 7_665 43.9(8) ?
+  O8 Mg1 C1 4_575 . 6_655 89.4(10) ?
+  O8 Mg1 C1 4_575 . 7_665 130.7(12) ?
+  C1 Mg1 C1 6_655 . 7_665 58.5(7) ?
+  Mg1 Mg2 Mg1 . . 6_645 72.8(3) ?
+  Mg1 Mg2 Mg2 . . 2_756 146.8(7) ?
+  Mg1 Mg2 Mg2 . . 4_575 57.6(4) ?
+  Mg1 Mg2 O1 . . . 81.3(12) ?
+  Mg1 Mg2 O2 . . . 120.3(8) ?
+  Mg1 Mg2 O7 . . . 37.8(6) ?
+  Mg1 Mg2 O8 . . . 41.5(10) ?
+  Mg1 Mg2 C1 . . . 102.6(13) ?
+  Mg1 Mg2 Mg2 6_645 . 2_756 133.3(7) ?
+  Mg1 Mg2 Mg2 6_645 . 4_575 127.0(5) ?
+  Mg1 Mg2 O1 6_645 . . 138.1(15) ?
+  Mg1 Mg2 O2 6_645 . . 72.8(8) ?
+  Mg1 Mg2 O7 6_645 . . 108.0(6) ?
+  Mg1 Mg2 O8 6_645 . . 45.5(11) ?
+  Mg1 Mg2 C1 6_645 . . 41.8(11) ?
+  Mg2 Mg2 Mg2 2_756 . 4_575 90.0(6) ?
+  Mg2 Mg2 O1 2_756 . . 65.5(12) ?
+  Mg2 Mg2 O2 2_756 . . 90.5(8) ?
+  Mg2 Mg2 O7 2_756 . . 118.1(8) ?
+  Mg2 Mg2 O8 2_756 . . 136.7(11) ?
+  Mg2 Mg2 C1 2_756 . . 93.6(13) ?
+  Mg2 Mg2 O1 4_575 . . 27.0(12) ?
+  Mg2 Mg2 O2 4_575 . . 147.7(10) ?
+  Mg2 Mg2 O7 4_575 . . 36.1(6) ?
+  Mg2 Mg2 O8 4_575 . . 82.9(12) ?
+  Mg2 Mg2 C1 4_575 . . 131.0(16) ?
+  O1 Mg2 O2 . . . 148.8(16) ?
+  O1 Mg2 O7 . . . 62.6(14) ?
+  O1 Mg2 O8 . . . 93.8(18) ?
+  O1 Mg2 C1 . . . 118(2) ?
+  O2 Mg2 O7 . . . 119.4(11) ?
+  O2 Mg2 O8 . . . 117.3(14) ?
+  O2 Mg2 C1 . . . 81.2(16) ?
+  O7 Mg2 O8 . . . 78.2(12) ?
+  O7 Mg2 C1 . . . 140.1(15) ?
+  O8 Mg2 C1 . . . 61.9(16) ?
+  Mg2 O1 Mg2 . . 4_575 126(2) ?
+  Mg2 O1 O1 . . 2_756 107.1(16) ?
+  Mg2 O1 O1 4_575 . 2_756 107.1(16) ?
+  Mg2 O2 Mg2 . . 4_565 115.4(14) ?
+  Mg1 O4 Mg1 . . 2_655 99.1(17) ?
+  Mg1 O4 O8 . . 5_455 157.5(17) ?
+  Mg1 O4 O8 . . 6_655 72.2(15) ?
+  Mg1 O4 O8 2_655 . 5_455 72.2(15) ?
+  Mg1 O4 O8 2_655 . 6_655 157.5(17) ?
+  O8 O4 O8 5_455 . 6_655 123(3) ?
+  Mg1 O7 Mg2 . . . 101.6(8) ?
+  Mg1 O7 Mg2 . . 4_575 101.6(8) ?
+  Mg1 O7 O6 . . . 108.7(12) ?
+  Mg2 O7 Mg2 . . 4_575 107.9(11) ?
+  Mg2 O7 O6 . . . 117.4(8) ?
+  Mg2 O7 O6 4_575 . . 117.4(8) ?
+  Mg1 O8 Mg1 . . 6_645 118.3(13) ?
+  Mg1 O8 Mg2 . . . 95.3(14) ?
+  Mg1 O8 O4 . . 5_545 152(2) ?
+  Mg1 O8 O5 . . 7_665 85.5(15) ?
+  Mg1 O8 Mg2 6_645 . . 95.0(15) ?
+  Mg1 O8 O4 6_645 . 5_545 69(2) ?
+  Mg1 O8 O5 6_645 . 7_665 82.5(16) ?
+  Mg2 O8 O4 . . 5_545 111.7(17) ?
+  Mg2 O8 O5 . . 7_665 177(3) ?
+  O4 O8 O5 5_545 . 7_665 68.0(14) ?
+  Mg1 C1 Mg2 6_645 . . 121.7(14) ?

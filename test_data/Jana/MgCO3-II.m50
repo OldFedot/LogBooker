@@ -1,0 +1,31 @@
+Version Jana2006
+title
+cell 8.0661 6.4647 6.871 90 103.7372 90
+esdcell 0.0018 0.002 0.0007 0.016 0.014 0.02
+spgroup C2/m 12 22
+lattice C
+symmetry x y z
+symmetry -x y -z
+symmetry -x -y -z
+symmetry x -y z
+unitsnumb 12
+atlist Mg C O3
+formtab -62
+atom Mg atradius 1.6 color 251123021
+atom C atradius 0.77 color 128073041
+atom O atradius 0.74 color 254003000
+roundmethod 1
+end
+*******************************************************************************
+contour
+end contour
+dist
+  angles 1
+  selfirst Mg1 Mg2 O1 O2 O4 O5 O6 O7 O8 C1
+  selsecnd Mg1 Mg2 O1 O2 O4 O5 O6 O7 O8 C1
+end dist
+fourier
+end fourier
+refine
+  cycles 100 badref 5 damp 0.1
+end refine

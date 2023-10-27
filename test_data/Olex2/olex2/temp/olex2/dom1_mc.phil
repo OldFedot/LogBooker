@@ -1,0 +1,19 @@
+snum {
+  hkl {
+    hkl_stat_file = 'D:\\Python_Projects\\Logboocker\\test_data\\olex2_dom1_mC\\olex2\\temp\\dom1_mC.hkl'
+  }
+  refinement {
+    completeness {
+      target = '- Laue Group Completeness to 2Θ=20.1: 39.7%%&#013;- Laue Group Completeness to 2Θ=34.6: 25.5%%'
+    }
+    max_shift_over_esd = '-1.419'
+    max_peak = '4.50'
+    max_hole = '-4.99'
+    goof = '1.941'
+    last_R1 = '0.1744'
+    last_wR2 = '0.4732'
+  }
+  history {
+    current_node = '2c602f9658ded9e74a1e61c17b2b256b'
+  }
+}

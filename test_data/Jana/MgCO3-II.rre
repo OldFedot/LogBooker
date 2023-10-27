@@ -1,0 +1,331 @@
+Creating of the JANA reflection file                                                                                page=  1
+structure :                                                                                                16:36:50 11-05-22
+
+
+*********************
+* Basic information *
+*********************
+
+
+******************
+* Structure data *
+******************
+
+Cell parameters       :     8.0661    6.4647    6.8710    90.000   103.737    90.000    Volume :      348.0
+Reciprocal parameters :   0.127626  0.154686  0.149825    90.000    76.263    90.000    Volume :   0.002873
+
+Centrosymmetric space group: C2/m  Number : 12
+
+List of centring vectors:
+
+  0.000000  0.000000  0.000000
+  0.500000  0.500000  0.000000
+
+Symmetry operators:
+
+     x    y    z
+    -x    y   -z
+    -x   -y   -z
+     x   -y    z
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Creating of the JANA reflection file                                                                                page=  2
+structure :                                                                                                16:36:50 11-05-22
+
+
+************************************
+* Report from the import procedure *
+************************************
+
+The following reflection conditions will be applied:
+
+ (h,k,l) : h+k=2n
+ (h,0,l) : h=2n <= induced from above conditions
+ (0,k,0) : k=2n <= induced from above conditions
+
+Reflections with I< 3.00*sig(I) will be classified as unobserved
+
+   426/687 reflections read from input file
+   426/687 reflections written to output file
+There were no rejections due to systematic extinctions.
+
+                 h(min) =  -10, h(max) =   13
+                 k(min) =   -8, k(max) =    7
+                 l(min) =  -12, l(max) =   11
+
+R(obs/all) from e.s.d. of I :  2.51/ 4.36
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Creating of the JANA reflection file                                                                                page=  3
+structure :                                                                                                16:36:51 11-05-22
+
+
+*************************************
+* Report from the average procedure *
+*************************************
+
+Only reflections |I-I(ave)|>  5.0*sig(I(ave)) will be printed
+
+Symbol +    means that for the relevant reflection  3*sig(I(ave)) < I(i)-I(ave) <  5*sig(I(ave))
+Symbol ++               -- " --                     5*sig(I(ave)) < I(i)-I(ave) < 10*sig(I(ave))
+Symbol +++              -- " --                    10*sig(I(ave)) < I(i)-I(ave) < 20*sig(I(ave))
+Symbol ++++             -- " --                    20*sig(I(ave)) < I(i)-I(ave)
+Symbol -                -- " --                     3*sig(I(ave)) < I(ave)-I(i) <  5*sig(I(ave))
+Symbol --               -- " --                     5*sig(I(ave)) < I(ave)-I(i) < 10*sig(I(ave))
+Symbol ---              -- " --                    10*sig(I(ave)) < I(ave)-I(i) < 20*sig(I(ave))
+Symbol ----             -- " --                    20*sig(I(ave)) < I(ave)-I(i)
+
+
+*************************************
+* Report from averaging reflections *
+*************************************
+
+
+ Instability factor could not be refined, ' there too few or no redundacy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Creating of the JANA reflection file                                                                                page=  4
+structure :                                                                                                16:36:51 11-05-22
+
+
+***************************
+* Summary after averaging *
+***************************
+
+Rint(obs/all) = 0.92/1.16 for 357/575 reflections
+                averaged from 426/687 reflections
+Redundancy = 1.195
+
+                 h(min) =  -12, h(max) =   13
+                 k(min) =    0, k(max) =    8
+                 l(min) =    0, l(max) =   12
+
+R(obs/all) from e.s.d. of I :  2.76/ 4.85
+Information from culling : no reflection was culled
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Creating of the JANA reflection file                                                                                page=  5
+structure :                                                                                                16:36:51 11-05-22
+
+
+*****************************************************************
+* Rint and other characteritics as a function of sin(th)/lambda *
+*****************************************************************
+
+
+All reflections
+sin(theta)/lambda  0.415148  0.544168  0.638323  0.706924  0.770767  0.816886  0.896166  1.071352
+Rexp                   0.72      2.28      3.28      8.68     12.22     15.39     20.85     29.75
+Rint                   0.26      1.22      2.46      4.93     10.13     11.56      2.48     24.05
+Averaged from            54        44        36        28        18        28        12         4
+Number                   27        22        18        14         9        14         6         2
+
+Observed reflections
+sin(theta)/lambda  0.415148  0.544168  0.638323  0.706924  0.770767  0.816886  0.896166  1.071352
+Rexp                   0.70      1.98      2.23      4.40      7.27      8.68     10.24     12.34
+Rint                   0.25      1.13      2.15      2.97      6.45      8.99      2.23      6.54
+Averaged from            50        38        28        12         8        14        10         2
+Number                   25        19        14         6         4         7         5         1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Creating of the JANA reflection file                                                                                page=  6
+structure :                                                                                                16:36:52 11-05-22
+
+
+**************************************
+* Report from the coverage procedure *
+**************************************
+
+
+********************************
+* Coverage statistics for C2/m *
+********************************
+
+sin(theta)/lambda                        0.451115  0.584034  0.660843  0.725697  0.783119  0.832352  0.909118  1.071352
+Coverage in  % for observed reflections     43.51     39.49     37.37     34.54     33.33     32.23     28.03     18.94
+Coverage in  % for all reflections          46.10     45.54     46.44     47.20     47.68     47.57     42.99     30.50
+
+     Coverage        Theta
+
+      30.50%       17.73 deg
+      31.00%       17.61 deg
+      32.00%       17.41 deg
+      33.00%       17.17 deg
+      34.00%       16.99 deg
+      35.00%       16.76 deg
+      36.00%       16.58 deg
+      37.00%       16.38 deg
+      38.00%       16.17 deg
+      39.00%       15.98 deg
+      40.00%       15.79 deg
+      41.00%       15.52 deg
+      42.00%       15.27 deg
+      43.00%       14.97 deg
+      44.00%       14.73 deg
+      45.00%       14.54 deg
+      46.00%       14.33 deg
+      47.00%       13.96 deg
+      48.00%       ---------
+
+ Fraction   0.31% for theta(max)    17.73
+ Fraction   0.47% for theta(full)   13.96
+
+
+
+
+
+
+
+
+
+
+
+
+
+

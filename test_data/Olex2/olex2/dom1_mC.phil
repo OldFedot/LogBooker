@@ -1,0 +1,52 @@
+snum {
+  current_process_diagnostics = 'refinement'
+  hkl {
+    hkl_stat_file = 'D:\\Python_Projects\\LogBooker1.7\\test_data\\olex2_dom1_mC\\dom1_mC.hkl'
+    d_min = 0.4886
+  }
+  solution {
+    program = ShelXS ShelXS-1997 ShelXS-1986 XS XT *ShelXT 'olex2.solve' XM \
+              ShelXD ShelXD-1997 SIR2002 SIR2004 SIR2008 SIR2011 Superflip \
+              Unknown ShelXS-2013 ShelXS86 ShelXD-2013
+    method = 'Dual Space' 'Charge Flipping' 'Direct Methods' \
+             'Patterson Method' 'Structure Expansion' '*Intrinsic Phasing' \
+             Unknown
+    current_atomic_volume = '12.7'
+  }
+  refinement {
+    completeness {
+      target = '- Laue Group Completeness to 2Θ=20.1: 38.1%%&#013;- Laue Group Completeness to 2Θ=34.6: 25.1%%'
+    }
+    data_parameter_ratio = '8.142857142857142'
+    parameters = '35.0'
+    max_shift_over_esd = '-0.004'
+    max_shift_over_esd_atom = 'Cl05'
+    max_shift_site = '0'
+    max_shift_site_atom = 'Cl03'
+    max_shift_u = '0'
+    max_shift_u_atom = 'Cl05'
+    max_peak = '3.85'
+    max_hole = '-3.70'
+    goof = '1.916'
+    last_R1 = '0.1629'
+    last_wR2 = '0.4568'
+    program = XL XH ShelXH-1997 *ShelXL ShelXL-1997 'olex2.refine' Unknown
+    method = '*Least Squares' CGLS 'Gauss-Newton' 'Levenberg-Marquardt' \
+             'Full Matrix' Unknown
+    max_cycles = '10'
+    max_peaks = '5'
+    suggested_weight = '0.2 0'
+    refine_extinction = 0
+  }
+  history {
+    current_node = '0a04da778e3cd3329f55dccc28b95862'
+  }
+  metacif {
+    cif_od_file = 'D:\\Python_Projects\\LogBooker1.7\\test_data\\olex2_dom1_mC\\dom1_mC.cif_od'
+    list_cif_od_files = 'D:\\Python_Projects\\LogBooker1.7\\test_data\\olex2_dom1_mC\\dom1_mC.cif_od;D:\\Python_Projects\\LogBooker1.7\\test_data\\olex2_dom1_mC\\dom1_mC.cif_od'
+  }
+  report {
+    diffractometer = "esperanto-CrysAlisPro-abstract goniometer imported esperanto images"
+    title = "dom1_mC"
+  }
+}

@@ -1,0 +1,20 @@
+data_dom1_mc
+_cell_measurement_temperature     293(2)
+_computing_structure_refinement   'SHELXL-2018/3 (Sheldrick, 2018)'
+_computing_structure_solution     'SHELXT 2018/2 (Sheldrick, 2018)'
+_audit_creation_date              2023-01-18
+_audit_creation_method            
+;
+Olex2 1.5
+(compiled 2022.04.07 svn.rca3783a0 for OlexSys, GUI svn.r6498)
+;
+
+_computing_molecular_graphics     'Olex2 1.5 (Dolomanov et al., 2009)'
+_computing_publication_material   'Olex2 1.5 (Dolomanov et al., 2009)'
+_publ_contact_author_name         ''
+_publ_contact_author_email        ?
+_publ_contact_author_phone        ?
+_publ_contact_author_address      ?
+_publ_contact_author_id_orcid     ?
+_olex2_submission_special_instructions 'No special instructions were received'
+

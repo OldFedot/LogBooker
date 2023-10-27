@@ -1,0 +1,89 @@
+data_dom1_mC
+_olex2_submission_special_instructions 'No special instructions were received'
+_audit_creation_date              2023-06-21
+_audit_creation_method            
+;
+Olex2 1.5
+(compiled 2023.03.06 svn.rbb2c1857 for OlexSys, GUI svn.r6748)
+;
+
+_computing_molecular_graphics     'Olex2 1.5 (Dolomanov et al., 2009)'
+_computing_publication_material   'Olex2 1.5 (Dolomanov et al., 2009)'
+_publ_contact_author_email        ?
+_publ_contact_author_phone        ?
+_publ_contact_author_address      ?
+_publ_contact_author_id_orcid     ?
+_computing_structure_solution     'SHELXT 2018/2 (Sheldrick, 2018)'
+_atom_sites_solution_primary      dual
+_computing_structure_refinement   'SHELXL 2018/3 (Sheldrick, 2015)'
+_computing_data_collection        'CrysAlisPro 1.171.41.106a (Rigaku OD, 2021)'
+_computing_cell_refinement        'CrysAlisPro 1.171.41.106a (Rigaku OD, 2021)'
+_computing_data_reduction         'CrysAlisPro 1.171.41.106a (Rigaku OD, 2021)'
+_cell_measurement_reflns_used     230
+_cell_measurement_theta_min       1.9320
+_cell_measurement_theta_max       16.9340
+_exptl_absorpt_correction_T_min   0.18929
+_exptl_absorpt_correction_T_max   1.00000
+_exptl_absorpt_correction_type    multi-scan
+_exptl_absorpt_process_details    
+;
+CrysAlisPro 1.171.41.106a (Rigaku Oxford Diffraction, 2021)
+Empirical absorption correction using spherical harmonics,
+implemented in SCALE3 ABSPACK scaling algorithm.
+;
+
+_oxdiff_exptl_absorpt_empirical_full_min 0.289
+_oxdiff_exptl_absorpt_empirical_full_max 2.969
+_oxdiff_exptl_absorpt_empirical_details 
+;
+Empirical correction (ABSPACK) includes:
+- Absorption correction using spherical harmonics
+- Frame scaling
+;
+
+_diffrn_source                    synchrotron
+_diffrn_radiation_probe           x-ray
+_diffrn_radiation_type            synchrotron
+_diffrn_radiation_wavelength      0.29030
+_diffrn_radiation_monochromator   synchrotron
+_diffrn_measurement_device        'abstract diffractometer'
+_diffrn_measurement_device_type   'esperanto-CrysAlisPro-abstract goniometer imported esperanto images'
+_diffrn_detector                  'CCD plate'
+_diffrn_measured_fraction_theta_max 0.2539
+_diffrn_measured_fraction_theta_full 0.2537
+_diffrn_orient_matrix_type        'CrysAlisPro convention (1999,Acta A55,543-557)'
+_diffrn_orient_matrix_UB_11       -0.0031330000
+_diffrn_orient_matrix_UB_12       -0.0625881000
+_diffrn_orient_matrix_UB_13       0.0189688000
+_diffrn_orient_matrix_UB_21       -0.0324921000
+_diffrn_orient_matrix_UB_22       -0.0136290000
+_diffrn_orient_matrix_UB_23       -0.0181157000
+_diffrn_orient_matrix_UB_31       0.0085014000
+_diffrn_orient_matrix_UB_32       -0.0765161000
+_diffrn_orient_matrix_UB_33       -0.0120606000
+_diffrn_measurement_details       
+;
+List of Runs (angles in degrees, time in seconds):
+
+  # Type    Start    End  Width  t~exp~   \w     \q     \k     \f   Frames
+--------------------------------------------------------------------------
+  1  \f    -19.50  24.00   0.50    1.00   0.00   0.00   0.00    --    87
+;
+
+_diffrn_measurement_method        '\f scans'
+_space_group_IT_number            12
+_space_group_crystal_system       monoclinic
+_space_group_name_H-M_alt         'C 1 2/m 1'
+_chemical_oxdiff_formula          'Fe3 Cl8'
+_publ_section_references          
+;
+Dolomanov, O.V., Bourhis, L.J., Gildea, R.J, Howard, J.A.K. & Puschmann, H.
+ (2009), J. Appl. Cryst. 42, 339-341.
+
+Sheldrick, G.M. (2015). Acta Cryst. A71, 3-8.
+
+Sheldrick, G.M. (2015). Acta Cryst. C71, 3-8.
+;
+
+_publ_contact_author_name         ''
+
