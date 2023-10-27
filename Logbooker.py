@@ -11,7 +11,7 @@ from parameters import Settings
 from message_viewer import LogMessageViewer
 from plotter import Plotter
 from crysalis_manager import CrysalisManager
-print("test")
+
 
 class MainWindow(QtWidgets.QMainWindow, Ui_MainWindow):
     def __init__(self, *args, **kwargs):
