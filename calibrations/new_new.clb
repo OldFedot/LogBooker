@@ -1,0 +1,16 @@
+Crystal_tab_header 1606 124
+Crystal_tab_lattice 1604 179
+Crystal_tab_uc_finding 1419 191
+Crystal_tab_lattice_improve_with_tolerance 1425 308
+Crystal_tab_results_up_left_corner 1565 187
+Crystal_tab_results_dw_right_corner 1865 223
+Selection_tab_header 1612 975
+Selection_tab_select_all_btn 1621 265
+Selection_tab_move_selected_to_btn 1659 556
+Selection_tab_groups 1815 557
+Group_tab_# 1589 1015
+Group_tab_indexed 1674 1014
+Group_tab_wrong 1776 1014
+Group_tab_group1_checkbox 1579 1032
+Ewald_space_up_left_corner 73 76
+Ewald_space_dw_right_corner 1542 1044
