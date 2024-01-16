@@ -29,6 +29,7 @@ Python 3.10 and above
 
 Installation
 ------------
+Download executable version
 
 ### Executables
 Executable versions for Windows can be downloaded from:
