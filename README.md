@@ -27,12 +27,9 @@ Requirements
 ----------
 Python 3.10 and above
 
-Installation
-------------
-Download executable version
-
 ### Executables
 Executable versions for Windows can be downloaded from:
+https://drive.google.com/drive/folders/1R89FC13sJoqwdZEumzl0THt5jhyYb31X?usp=drive_link
 
 
 ### Code
