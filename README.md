@@ -1,6 +1,6 @@
 LogBooker
-https://www.researchgate.net/publication/370682290_Logbooker_-_software_for_easy_management_summarizing_and_extracting_information_from_crystallographic_information_files
 ======
+https://www.researchgate.net/publication/370682290_Logbooker_-_software_for_easy_management_summarizing_and_extracting_information_from_crystallographic_information_files
 <img width="677" alt="1" src="https://github.com/OldFedot/LogBooker/assets/149039437/34b82845-ac7e-44ba-b8f4-d3f0adb00975">
 
 Time saving software for easy management, summarizing and extracting information fromcrystallographic information files (.CIF) coming from single crystal XRD data analysis.
